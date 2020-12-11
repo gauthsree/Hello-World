@@ -1,0 +1,12 @@
+This is a Hello World python code
+	To Do
+		Download the code using "git clone"
+		Modify the code using any text processor
+		Commit the change using "git add filename"
+		Add comment to explain the changes made using "git commit -m "Message""
+		Upload the code on github using "git push"
+
+	If your internet connection requires proxy to connect to github use
+		git -c "http.proxy=user:passwd@server:port" clone instead of git clone
+		Likewise for git push
+ 
